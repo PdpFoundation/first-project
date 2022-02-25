@@ -1,1 +1,4 @@
 bu github uchun qo'shilishi kerak bo'lgan fayl
+
+
+bu git hub tomonidan o'zgardi
