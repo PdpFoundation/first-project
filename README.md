@@ -1,4 +1,3 @@
 # first-project
-our first project on git hub
 
-i love 🕺 
+this in another file
