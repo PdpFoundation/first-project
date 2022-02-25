@@ -2,5 +2,4 @@
 
 this in another file
 for now
-new line        
-o'zgardi
+new line     
